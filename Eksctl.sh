@@ -31,7 +31,7 @@ tar -xzf eksctl.tar.gz
 sudo mv eksctl /usr/local/bin/
 rm eksctl.tar.gz
 
-echo "✅ eksctl installed:"
+echo "✅ eksctl installed successfully:"
 eksctl version
 
 # -------------------------------
