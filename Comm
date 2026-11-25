@@ -1,0 +1,3 @@
+cd ~/demo-app
+sed -i '36s/\*"akshayshetty7709-tech"\*/*"<YOUR-GITHUB-USER>"*/' Jenkinsfile
+sed -n '35,38p' Jenkinsfile
